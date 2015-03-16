@@ -10,7 +10,7 @@ class ApplicationController < ActionController::Base
 
 
   def initialize
-    @title = 'Fedena'
+    @title = 'DAILY SCIENCE'
   end
 
   def message_user
